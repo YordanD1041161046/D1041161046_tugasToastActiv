@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">D1041161046_tugasToastActiv</string>
+    <string name="text_input">Masukan Nama</string>
+    <string name="button_main">Lanjut</string>
+    <string name="button_up">CountUp</string>
+    <string name="button_down">CountDown</string>
+    <string name="text_name">Hallo Yordan</string>
+    <string name="count_initial_value">46</string>
+
+</resources>
